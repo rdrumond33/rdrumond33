@@ -46,8 +46,8 @@
 <a href="https://github.com/rdrumond33/Compilador-Portugolo">
 <img align="rigth" src="https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=Compilador-Portugolo&show_owner=false&theme=monokai"/>
 </a>
-<a href="https://github.com/rdrumond33/youtube-tcc-api-typescript">
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=youtube-tcc-api-typescript&show_owner=false&theme=monokai"/>
+<a href="https://github.com/rdrumond33/beginner-with-artificial-intelligence">
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=beginner-with-artificial-intelligence&show_owner=false&theme=monokai"/>
 </a>
 </p>
  
