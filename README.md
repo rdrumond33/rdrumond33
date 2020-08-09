@@ -9,18 +9,14 @@
   <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
 
 ### - Some Statistics ![estatisticas](https://user-images.githubusercontent.com/31081356/89725339-dce53080-d9e4-11ea-8b9e-195e032cf6f0.png):
-<p align="center">
+<p>
   <a href="#">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=rdrumond33&show_icons=true&count_private=true&line_height=32&hide=prs,issues&theme=monokai" />
   </a>
   <a href="#">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdrumond33&theme=monokai&layout=compact" />
+    <img align="rigth"  height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdrumond33&theme=monokai&layout=compact" />
   </a>   
 </p>
-
-<br></br>
-<br></br>
-<br></br>
 <br></br>
 
 ### - Languages and Tools:
@@ -40,22 +36,19 @@
 
 <details>
   <summary> <b> Some projects!</b><i>(click to expand!)</i></summary><br>
-<p>
-
+  
+<p >
 <a href="https://github.com/rdrumond33/s2click">
-<img align="left" width="425" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=s2click&show_owner=true&theme=monokai"/>
+<img align="rigth" src="https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=s2click&show_owner=true&theme=monokai"/>
 </a>
 <a href="https://github.com/rdrumond33/schedule_frinds">
-<img align="rigth" width="425" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=schedule_frinds&show_owner=true&theme=monokai"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=schedule_frinds&show_owner=true&theme=monokai"/>
 </a>
-</p>
-
-<p>
 <a href="https://github.com/rdrumond33/Compilador-Portugolo">
-<img width="425" height="150" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=Compilador-Portugolo&show_owner=false&theme=monokai"/>
+<img align="rigth" src="https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=Compilador-Portugolo&show_owner=false&theme=monokai"/>
 </a>
 <a href="https://github.com/rdrumond33/youtube-tcc-api-typescript">
-<img width="425" height="150" align="rigth" src="https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=youtube-tcc-api-typescript&show_owner=false&theme=monokai"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=youtube-tcc-api-typescript&show_owner=false&theme=monokai"/>
 </a>
 </p>
  
