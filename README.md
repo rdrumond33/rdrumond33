@@ -6,7 +6,7 @@
 </p>
 
 <details>
-  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary> <br>   
+  <summary> <b> Things to know about me! </b> <i>(click to expand!)</i> </summary>
 
 ### - Some Statistics ![estatisticas](https://user-images.githubusercontent.com/31081356/89725339-dce53080-d9e4-11ea-8b9e-195e032cf6f0.png):
 <p align="center">
