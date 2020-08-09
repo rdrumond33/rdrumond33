@@ -41,10 +41,10 @@
 <details>
   <summary> <b> Some projects!</b><i>(click to expand!)</i></summary><br> 
   
-  ![ReadMe Card_s2click](https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=s2click&show_owner=true)
-  ![ReadMe Card_schedule_frinds](https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=schedule_frinds&show_owner=true)
-  ![ReadMe Card_Compilador-Portugolo](https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=Compilador-Portugolo&show_owner=true)
-  ![ReadMe Card_youtube-tcc-api-typescript](https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=youtube-tcc-api-typescript&show_owner=true)
+  ![ReadMe Card_s2click](https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=s2click&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+  ![ReadMe Card_schedule_frinds](https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=schedule_frinds&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+  ![ReadMe Card_Compilador-Portugolo](https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=Compilador-Portugolo&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+  ![ReadMe Card_youtube-tcc-api-typescript](https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=youtube-tcc-api-typescript&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 </details>
 
