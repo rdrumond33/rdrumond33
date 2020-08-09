@@ -17,7 +17,6 @@
     <img align="rigth"  height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdrumond33&theme=monokai&layout=compact" />
   </a>   
 </p>
-<br></br>
 
 ### - Languages and Tools:
 - Tech Stack :computer::
