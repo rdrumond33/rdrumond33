@@ -1,8 +1,10 @@
 ### Hi there 👋, I'm Rodrigo Drumond de Paula 
-:heart: Programming | :eyes: Anime
+:heart: Programming | :eyes: Anime 
 
 <p align="center">
-  <img align="center" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
+  <a href="#">
+    <img align="center" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"/>
+  </a>
 </p>
 
 <details>
