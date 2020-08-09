@@ -10,11 +10,11 @@
 
 ### - Some Statistics ![estatisticas](https://user-images.githubusercontent.com/31081356/89725339-dce53080-d9e4-11ea-8b9e-195e032cf6f0.png):
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=rdrumond33&show_icons=true&count_private=true&line_height=32&hide=prs,issues&theme=dracula" />
+  <a href="#">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=rdrumond33&show_icons=true&count_private=true&line_height=32&hide=prs,issues&theme=monokai" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdrumond33&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515&layout=compact" />
+  <a href="#">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdrumond33&theme=monokai&layout=compact" />
   </a>   
 </p>
 
@@ -39,13 +39,26 @@
 </details>
 
 <details>
-  <summary> <b> Some projects!</b><i>(click to expand!)</i></summary><br> 
-  
-  ![ReadMe Card_s2click](https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=s2click&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-  ![ReadMe Card_schedule_frinds](https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=schedule_frinds&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-  ![ReadMe Card_Compilador-Portugolo](https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=Compilador-Portugolo&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
-  ![ReadMe Card_youtube-tcc-api-typescript](https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=youtube-tcc-api-typescript&show_owner=true&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+  <summary> <b> Some projects!</b><i>(click to expand!)</i></summary><br>
+<p>
 
+<a href="https://github.com/rdrumond33/s2click">
+<img align="left" width="425" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=s2click&show_owner=true&theme=monokai"/>
+</a>
+<a href="https://github.com/rdrumond33/schedule_frinds">
+<img align="rigth" width="425" height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=schedule_frinds&show_owner=true&theme=monokai"/>
+</a>
+</p>
+
+<p>
+<a href="https://github.com/rdrumond33/Compilador-Portugolo">
+<img width="425" height="150" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=Compilador-Portugolo&show_owner=false&theme=monokai"/>
+</a>
+<a href="https://github.com/rdrumond33/youtube-tcc-api-typescript">
+<img width="425" height="150" align="rigth" src="https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=youtube-tcc-api-typescript&show_owner=false&theme=monokai"/>
+</a>
+</p>
+ 
 </details>
 
 <h2 align="center">Contact me on</h2>
