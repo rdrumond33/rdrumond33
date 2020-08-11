@@ -61,7 +61,7 @@
   <a href="https://www.linkedin.com/in/rodrigo-drumond-de-paula-481268120">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png" width="32" height="32"/>
   </a>     
-  <a href="https://telegram.me/rdrumond33">
+  <a href="https://telegram.me/rdrumond">
     <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Telegram_black.png" width="32" height="32"/>
   </a>
   <a href="https://discord.gg/rdrumond33">
