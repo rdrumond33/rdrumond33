@@ -40,21 +40,22 @@
   
 <p >
 <a href="https://github.com/rdrumond33/s2click">
-<img align="rigth" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=s2click&show_owner=true&theme=monokai"/>
+<img align="rigth" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=s2click&show_owner=true&theme=monokai"/>
 </a>
 <a href="https://github.com/rdrumond33/schedule_frinds">
-<img align="left" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=schedule_frinds&show_owner=true&theme=monokai"/>
+<img align="left" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=schedule_frinds&show_owner=true&theme=monokai"/>
 </a>
 <a href="https://github.com/rdrumond33/Compilador-Portugolo">
-<img align="rigth" height="125"src="https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=Compilador-Portugolo&show_owner=false&theme=monokai"/>
+<img align="rigth" height="100"src="https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=Compilador-Portugolo&show_owner=false&theme=monokai"/>
 </a>
 <a href="https://github.com/rdrumond33/beginner-with-artificial-intelligence">
-<img align="left" height="125" src="https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=beginner-with-artificial-intelligence&show_owner=false&theme=monokai"/>
+<img align="left" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=beginner-with-artificial-intelligence&show_owner=false&theme=monokai"/>
 </a>
 </p>
  
 </details>
-<br>
+
+<br></br>
 <h2 align="center">Contact me on</h2>
 <h2 align="center">
   <a href="https://www.linkedin.com/in/rodrigo-drumond-de-paula-481268120">
