@@ -13,10 +13,10 @@
 ### - Some Statistics ![estatisticas](https://user-images.githubusercontent.com/31081356/89725339-dce53080-d9e4-11ea-8b9e-195e032cf6f0.png):
 <p>
   <a href="#">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=rdrumond33&show_icons=true&count_private=true&line_height=32&hide=prs,issues&theme=monokai" />
+    <img align="left"  height="150" src="https://github-readme-stats.vercel.app/api?username=rdrumond33&show_icons=true&count_private=true&line_height=32&hide=issues&theme=monokai" />
   </a>
   <a href="#">
-    <img align="rigth"  height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdrumond33&theme=monokai&layout=compact" />
+    <img align="rigth" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdrumond33&theme=monokai&layout=compact" />
   </a>   
 </p>
 
