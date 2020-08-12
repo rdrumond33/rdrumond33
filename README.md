@@ -53,7 +53,7 @@
 <a href="https://github.com/rdrumond33/CronJob-YoutubeApi">
 <img align="left" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=CronJob-YoutubeApi&show_owner=false&theme=monokai"/>
 </a>
- <a href="https://github.com/rdrumond33/CronJob-YoutubeApi">
+ <a href="https://github.com/rdrumond33/youtube-tcc-api-typescript">
 <img align="rigth" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=rdrumond33&repo=youtube-tcc-api-typescript&show_owner=false&theme=monokai"/>
 </a>
  </p>
